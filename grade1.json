@@ -1,0 +1,652 @@
+[
+  {
+    "category": "Animals",
+    "question": "What animal says moo?",
+    "answer": "Cow"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal barks?",
+    "answer": "Dog"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal meows?",
+    "answer": "Cat"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal has a long trunk?",
+    "answer": "Elephant"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal has a very long neck?",
+    "answer": "Giraffe"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal hops and has a pouch?",
+    "answer": "Kangaroo"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal has black and white stripes?",
+    "answer": "Zebra"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal makes honey?",
+    "answer": "Bee"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal has eight legs?",
+    "answer": "Spider"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal lives in a shell and moves slowly?",
+    "answer": "Snail"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal is known as the king of the jungle?",
+    "answer": "Lion"
+  },
+  {
+    "category": "Animals",
+    "question": "What bird cannot fly and lives in Antarctica?",
+    "answer": "Penguin"
+  },
+  {
+    "category": "Animals",
+    "question": "What is a baby dog called?",
+    "answer": "Puppy"
+  },
+  {
+    "category": "Animals",
+    "question": "What is a baby cat called?",
+    "answer": "Kitten"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal builds dams?",
+    "answer": "Beaver"
+  },
+  {
+    "category": "Animals",
+    "question": "What sea animal has eight arms?",
+    "answer": "Octopus"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal changes from a caterpillar?",
+    "answer": "Butterfly"
+  },
+  {
+    "category": "Animals",
+    "question": "What is the largest land animal?",
+    "answer": "Elephant"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal has a horn on its nose?",
+    "answer": "Rhinoceros"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal is famous for eating bamboo?",
+    "answer": "Panda"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What planet do we live on?",
+    "answer": "Earth"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What star gives Earth light?",
+    "answer": "The Sun"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What planet is called the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call frozen water?",
+    "answer": "Ice"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do plants need from the Sun to grow?",
+    "answer": "Sunlight"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we breathe to stay alive?",
+    "answer": "Oxygen"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What falls from clouds as drops of water?",
+    "answer": "Rain"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do you call a baby frog?",
+    "answer": "Tadpole"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What season comes after winter?",
+    "answer": "Spring"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "How many legs does an insect have?",
+    "answer": "Six"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do you call water turning into steam?",
+    "answer": "Evaporation"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the closest planet to the Sun?",
+    "answer": "Mercury"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the biggest planet in our solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do magnets attract: iron or wood?",
+    "answer": "Iron"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we use to see tiny germs?",
+    "answer": "Microscope"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What part of your body pumps blood?",
+    "answer": "Heart"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What part of a plant takes in water from soil?",
+    "answer": "Roots"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What shape is the Moon when it looks completely round?",
+    "answer": "Full moon"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call a rock that falls from space to Earth?",
+    "answer": "Meteorite"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call the path Earth takes around the Sun?",
+    "answer": "Orbit"
+  },
+  {
+    "category": "Geography",
+    "question": "What country is the Eiffel Tower in?",
+    "answer": "France"
+  },
+  {
+    "category": "Geography",
+    "question": "What city is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "category": "Geography",
+    "question": "What country is famous for kangaroos?",
+    "answer": "Australia"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is the biggest?",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "category": "Geography",
+    "question": "What continent is Egypt in?",
+    "answer": "Africa"
+  },
+  {
+    "category": "Geography",
+    "question": "What country has the city of Tokyo?",
+    "answer": "Japan"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the name of the frozen continent at the South Pole?",
+    "answer": "Antarctica"
+  },
+  {
+    "category": "Geography",
+    "question": "Which direction is opposite north?",
+    "answer": "South"
+  },
+  {
+    "category": "Geography",
+    "question": "What do we call a huge body of salt water?",
+    "answer": "Ocean"
+  },
+  {
+    "category": "Geography",
+    "question": "What is a map used for?",
+    "answer": "Finding places"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital of the United States?",
+    "answer": "Washington, D.C."
+  },
+  {
+    "category": "Geography",
+    "question": "Which country has a maple leaf on its flag?",
+    "answer": "Canada"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country has the Great Wall?",
+    "answer": "China"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the tallest mountain above sea level?",
+    "answer": "Mount Everest"
+  },
+  {
+    "category": "Geography",
+    "question": "Which U.S. state is famous for Disney World?",
+    "answer": "Florida"
+  },
+  {
+    "category": "Geography",
+    "question": "What continent is Brazil in?",
+    "answer": "South America"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is between North America and Europe?",
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "category": "Geography",
+    "question": "What do we call land surrounded by water?",
+    "answer": "Island"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is shaped like a boot?",
+    "answer": "Italy"
+  },
+  {
+    "category": "Geography",
+    "question": "Which city is famous for the Statue of Liberty?",
+    "answer": "New York City"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "Who is the cowboy in Toy Story?",
+    "answer": "Woody"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "Who is the space ranger in Toy Story?",
+    "answer": "Buzz Lightyear"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What is the snowman's name in Frozen?",
+    "answer": "Olaf"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What is the ice queen's name in Frozen?",
+    "answer": "Elsa"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What color is SpongeBob?",
+    "answer": "Yellow"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What is Mickey Mouse's dog's name?",
+    "answer": "Pluto"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What fairy flies with Peter Pan?",
+    "answer": "Tinker Bell"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What video game plumber wears a red hat?",
+    "answer": "Mario"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What blue video game character runs very fast?",
+    "answer": "Sonic"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What yellow Pokémon can make electricity?",
+    "answer": "Pikachu"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What princess loses a glass slipper?",
+    "answer": "Cinderella"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What is the name of the fish in Finding Nemo?",
+    "answer": "Nemo"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What instrument has black and white keys?",
+    "answer": "Piano"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "How many colors are in a traditional rainbow?",
+    "answer": "Seven"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What do you call a person who performs magic tricks?",
+    "answer": "Magician"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What sport uses a soccer ball and goals?",
+    "answer": "Soccer"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What sport uses a bat and bases?",
+    "answer": "Baseball"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What board game has kings and queens?",
+    "answer": "Chess"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What sport uses a basketball hoop?",
+    "answer": "Basketball"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What color do you get by mixing blue and yellow paint?",
+    "answer": "Green"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What yellow fruit do monkeys often eat?",
+    "answer": "Banana"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What orange vegetable do rabbits often eat?",
+    "answer": "Carrot"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What fruit is red and often used in pie?",
+    "answer": "Apple"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What food do bees make?",
+    "answer": "Honey"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What do we call bread browned in a toaster?",
+    "answer": "Toast"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What frozen treat is served in a cone?",
+    "answer": "Ice cream"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What do we call the meal eaten in the morning?",
+    "answer": "Breakfast"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What dairy food is often put on pizza?",
+    "answer": "Cheese"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What do you use to brush your teeth?",
+    "answer": "Toothbrush"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "How many days are in a week?",
+    "answer": "Seven"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "How many months are in a year?",
+    "answer": "Twelve"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What color means stop at a traffic light?",
+    "answer": "Red"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What do you wear on your feet inside shoes?",
+    "answer": "Socks"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What do you use to keep rain off your head?",
+    "answer": "Umbrella"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What shape has three sides?",
+    "answer": "Triangle"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "How many sides does a square have?",
+    "answer": "Four"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What do you call a person who puts out fires?",
+    "answer": "Firefighter"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What do you use to tell the time?",
+    "answer": "Clock"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is the opposite of hot?",
+    "answer": "Cold"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What color is a ripe lemon?",
+    "answer": "Yellow"
+  },
+  {
+    "category": "Animals",
+    "question": "What is the name for a young sheep?",
+    "answer": "Lamb"
+  },
+  {
+    "category": "Animals",
+    "question": "What do you call an animal that is close to disappearing forever?",
+    "answer": "Endangered"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal has six legs and two antennae?",
+    "answer": "An insect"
+  },
+  {
+    "category": "Animals",
+    "question": "Which striped big cat lives in Asia?",
+    "answer": "Tiger"
+  },
+  {
+    "category": "Animals",
+    "question": "What do you call a baby cow?",
+    "answer": "Calf"
+  },
+  {
+    "category": "Animals",
+    "question": "What black-and-white bird is known for waddling and swimming?",
+    "answer": "Penguin"
+  },
+  {
+    "category": "Animals",
+    "question": "What bird is famous for laying very large eggs?",
+    "answer": "Ostrich"
+  },
+  {
+    "category": "Animals",
+    "question": "Which bird is a symbol of the United States?",
+    "answer": "Bald eagle"
+  },
+  {
+    "category": "Animals",
+    "question": "What do birds use to cover their bodies?",
+    "answer": "Feathers"
+  },
+  {
+    "category": "Animals",
+    "question": "Which pink bird often stands on one leg?",
+    "answer": "Flamingo"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "How many planets travel around the Sun?",
+    "answer": "Eight"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What tool makes faraway stars look closer?",
+    "answer": "Telescope"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the name of the galaxy containing Earth?",
+    "answer": "Milky Way"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What circles Earth about once a month?",
+    "answer": "The Moon"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "Which planet is known for its rings?",
+    "answer": "Saturn"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is melted rock called when it flows out of a volcano?",
+    "answer": "Lava"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What are the white or gray puffy shapes floating in the sky?",
+    "answer": "Clouds"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What kind of storm forms over warm ocean water and has very strong winds?",
+    "answer": "Hurricane"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call a large plant with a trunk and branches?",
+    "answer": "Tree"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What happens to a puddle when the Sun dries it?",
+    "answer": "The water evaporates"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "Who is the friendly snowman in Frozen?",
+    "answer": "Olaf"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What animal is Shrek's talkative friend?",
+    "answer": "Donkey"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What is the name of Simba's uncle in The Lion King?",
+    "answer": "Scar"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What kind of animal is Remy in Ratatouille?",
+    "answer": "Rat"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What animal is the Grinch's pet Max?",
+    "answer": "Dog"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What three treats make a classic s'more?",
+    "answer": "Graham crackers, chocolate, and marshmallow"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What fruit is known for providing vitamin C and growing on citrus trees?",
+    "answer": "Orange"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What do we call a person who chooses not to eat meat?",
+    "answer": "Vegetarian"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What two toppings are common on Hawaiian pizza?",
+    "answer": "Ham and pineapple"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What kind of food is mozzarella?",
+    "answer": "Cheese"
+  }
+]

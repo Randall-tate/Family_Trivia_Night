@@ -1,0 +1,177 @@
+[
+  {
+    "category": "Science & Nature",
+    "question": "What process do plants use to make food from sunlight?",
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the name of the force that opposes motion between two touching surfaces?",
+    "answer": "Friction"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What organ pumps blood throughout the body?",
+    "answer": "Heart"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "Which planet has the Great Red Spot?",
+    "answer": "Jupiter"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What are the three main states of matter?",
+    "answer": "Solid, liquid, and gas"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What type of energy does a moving object have?",
+    "answer": "Kinetic energy"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the name for an animal that eats plants and animals?",
+    "answer": "Omnivore"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What part of a cell contains most of its genetic information?",
+    "answer": "Nucleus"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the name for rock broken down by wind, water, or ice?",
+    "answer": "Weathering"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the name for water vapor cooling into liquid droplets?",
+    "answer": "Condensation"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the imaginary line dividing Earth into Northern and Southern Hemispheres?",
+    "answer": "Equator"
+  },
+  {
+    "category": "Geography",
+    "question": "Which continent contains the Amazon rainforest?",
+    "answer": "South America"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the largest ocean on Earth?",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "category": "Geography",
+    "question": "Which direction is halfway between north and east?",
+    "answer": "Northeast"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of the United States?",
+    "answer": "Washington, D.C."
+  },
+  {
+    "category": "Geography",
+    "question": "What kind of map shows mountains, rivers, and landforms?",
+    "answer": "Physical map"
+  },
+  {
+    "category": "Geography",
+    "question": "What continent is Egypt part of?",
+    "answer": "Africa"
+  },
+  {
+    "category": "Geography",
+    "question": "Which U.S. state is known as the Aloha State?",
+    "answer": "Hawaii"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the longest river in South America?",
+    "answer": "Amazon River"
+  },
+  {
+    "category": "Geography",
+    "question": "What is a narrow strip of land connecting two larger land areas called?",
+    "answer": "Isthmus"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is 9 multiplied by 7?",
+    "answer": "63"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What fraction is equivalent to one half with denominator 8?",
+    "answer": "Four eighths"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "How many degrees are in a right angle?",
+    "answer": "90 degrees"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is the perimeter of a square with sides 5 inches long?",
+    "answer": "20 inches"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is 144 divided by 12?",
+    "answer": "12"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is the name for the answer to a multiplication problem?",
+    "answer": "Product"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is 3/4 expressed as a decimal?",
+    "answer": "0.75"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is the smallest prime number?",
+    "answer": "2"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is the name of a polygon with five sides?",
+    "answer": "Pentagon"
+  },
+  {
+    "category": "Food & Everyday",
+    "question": "What is 25 percent of 100?",
+    "answer": "25"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What is the term for a word that has the opposite meaning of another word?",
+    "answer": "Antonym"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What is the term for a word that means nearly the same thing as another?",
+    "answer": "Synonym"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What do we call the main character in a story?",
+    "answer": "Protagonist"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What punctuation mark ends a question?",
+    "answer": "Question mark"
+  },
+  {
+    "category": "Movies & Fun",
+    "question": "What is the past tense of the verb 'teach'?",
+    "answer": "Taught"
+  }
+]
