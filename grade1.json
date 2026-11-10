@@ -191,7 +191,8 @@
   },
   {
     "category": "Science & Nature",
-    "question": "What do we call a rock that falls from space to Earth?",
+    "question": "What do we call a rock that falls from space to 
+Earth?",
     "answer": "Meteorite"
   },
   {
@@ -206,7 +207,8 @@
   },
   {
     "category": "Geography",
-    "question": "What city is the capital of France?",
+    "question": "What city is the 
+capital of France?",
     "answer": "Paris"
   },
   {
@@ -221,7 +223,8 @@
   },
   {
     "category": "Geography",
-    "question": "What continent is Egypt in?",
+    "question": "What continent is 
+Egypt in?",
     "answer": "Africa"
   },
   {
@@ -531,7 +534,8 @@
   },
   {
     "category": "Animals",
-    "question": "What bird is famous for laying very large eggs?",
+    "question": "What bird is famous 
+for laying very large eggs?",
     "answer": "Ostrich"
   },
   {
@@ -546,7 +550,8 @@
   },
   {
     "category": "Animals",
-    "question": "Which pink bird often stands on one leg?",
+    "question": "Which pink bird 
+often stands on one leg?",
     "answer": "Flamingo"
   },
   {
@@ -561,7 +566,8 @@
   },
   {
     "category": "Science & Nature",
-    "question": "What is the name of the galaxy containing Earth?",
+    "question": "What is the name of 
+the galaxy containing Earth?",
     "answer": "Milky Way"
   },
   {
@@ -576,7 +582,8 @@
   },
   {
     "category": "Science & Nature",
-    "question": "What is melted rock called when it flows out of a volcano?",
+    "question": "What is melted 
+rock called when it flows out of a volcano?",
     "answer": "Lava"
   },
   {
@@ -631,7 +638,8 @@
   },
   {
     "category": "Food & Everyday",
-    "question": "What fruit is known for providing vitamin C and growing on citrus trees?",
+    "question": "What fruit is known for providing vitamin C and 
+growing on citrus trees?",
     "answer": "Orange"
   },
   {
@@ -648,5 +656,352 @@
     "category": "Food & Everyday",
     "question": "What kind of food is mozzarella?",
     "answer": "Cheese"
+  },
+  {
+    "category": "Animals",
+    "question": "What is a baby goat called?",
+    "answer": "Kid"
+  },
+  {
+    "category": "Animals",
+    "question": "What is a baby horse called?",
+    "answer": "Foal"
+  },
+  {
+    "category": "Animals",
+    "question": "What do you call a group of fish swimming together?",
+    "answer": "School"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal carries its home on its back and can pull its head inside?",
+    "answer": "Turtle"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal is famous for moving very slowly in trees?",
+    "answer": "Sloth"
+  },
+  {
+    "category": "Animals",
+    "question": "What do you call a baby lion?",
+    "answer": "Cub"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal has a fluffy tail and gathers acorns?",
+    "answer": "Squirrel"
+  },
+  {
+    "category": "Animals",
+    "question": "Which farm bird says gobble gobble?",
+    "answer": "Turkey"
+  },
+  {
+    "category": "Animals",
+    "question": "What do chickens lay?",
+    "answer": "Eggs"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal has a long nose and curly tail and says oink?",
+    "answer": "Pig"
+  },
+  {
+    "category": "Animals",
+    "question": "What sea animal has claws and walks sideways?",
+    "answer": "Crab"
+  },
+  {
+    "category": "Animals",
+    "question": "What insect lights up at night?",
+    "answer": "Firefly"
+  },
+  {
+    "category": "Animals",
+    "question": "What animal is known for its black-and-white fur and spraying a strong smell?",
+    "answer": "Skunk"
+  },
+  {
+    "category": "Animals",
+    "question": "What do we call the home of a bird?",
+    "answer": "Nest"
+  },
+  {
+    "category": "Animals",
+    "question": "What do fish use to breathe underwater?",
+    "answer": "Gills"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What force pulls a dropped ball toward the ground?",
+    "answer": "Gravity"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call the colored arc that can appear after 
+rain?",
+    "answer": "Rainbow"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What part of a plant usually makes seeds?",
+    "answer": "Flower"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What part of a plant is usually green and makes food using sunlight?",
+    "answer": "Leaves"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the name of the planet we see shining brightly as the morning or evening star?",
+    "answer": "Venus"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call the tiny drops of water that form on grass in the morning?",
+    "answer": "Dew"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What is the name for water falling from clouds as frozen white flakes?",
+    "answer": "Snow"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do you call a scientist who studies space?",
+    "answer": "Astronomer"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What part of your body helps you breathe by filling with air?",
+    "answer": "Lungs"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What part of your body helps you think and 
+remember?",
+    "answer": "Brain"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call a bright flash of electricity during a storm?",
+    "answer": "Lightning"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call the sound that follows lightning?",
+    "answer": "Thunder"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do seeds need from the soil to begin growing?",
+    "answer": "Water"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do we call an animal that lives both on land and in water, like a frog?",
+    "answer": "Amphibian"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the name of the country directly north of the United States?",
+    "answer": "Canada"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the name of the country directly south of the United States?",
+    "answer": "Mexico"
+  },
+  {
+    "category": "Geography",
+    "question": "What do we call a very dry place that gets little rain?",
+    "answer": "Desert"
+  },
+  {
+    "category": "Geography",
+    "question": "What do we call a stream of water that flows across land?",
+    "answer": "River"
+  },
+  {
+    "category": "Geography",
+    "question": "What do we call the point on a compass between north and east?",
+    "answer": "Northeast"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the name of the continent where the United States is located?",
+    "answer": "North America"
+  },
+  {
+    "category": "Geography",
+    "question": "What do we call a mountain that can erupt with lava?",
+    "answer": "Volcano"
+  },
+  {
+    "category": "Geography",
+    "question": "Which state is home to the Grand Canyon?",
+    "answer": "Arizona"
+  },
+  {
+    "category": "Movies & Games",
+    "question": "What is the name of the lion cub who becomes king in The Lion King?",
+    "answer": "Simba"
+  },
+  {
+    "category": "Movies & Games",
+    "question": "What is the name of the green ogre in the movie with Donkey?",
+    "answer": "Shrek"
+  },
+  {
+    "category": "Movies & Games",
+    "question": "What is the name of the princess in Aladdin?",
+    "answer": "Jasmine"
+  },
+  {
+    "category": "Movies & Games",
+    "question": "Which movie features a house lifted by colorful balloons?",
+    "answer": "Up"
+  },
+  {
+    "category": "Movies & Games",
+    "question": "What is the name of the friendly red race car in Cars?",
+    "answer": "Lightning McQueen"
+  },
+  {
+    "category": "Movies & Games",
+    "question": "What is the name of the snow queen's sister in Frozen?",
+    "answer": "Anna"
+  },
+  {
+    "category": "Movies & Games",
+    "question": "What is the name of the green dinosaur toy in Toy 
+Story?",
+    "answer": "Rex"
+  },
+  {
+    "category": "Movies & Games",
+    "question": "What is the name of the crab who sings in The Little Mermaid?",
+    "answer": "Sebastian"
+  },
+  {
+    "category": "Food",
+    "question": "What fruit is dried to make raisins?",
+    "answer": "Grapes"
+  },
+  {
+    "category": "Food",
+    "question": "What vegetable is used to make most french fries?",
+    "answer": "Potato"
+  },
+  {
+    "category": "Food",
+    "question": "What fruit has tiny seeds on its outside?",
+    "answer": "Strawberry"
+  },
+  {
+    "category": "Food",
+    "question": "What do we call the food made by cooking beaten eggs in a pan and stirring them?",
+    "answer": "Scrambled eggs"
+  },
+  {
+    "category": "Food",
+    "question": "What vegetable makes many people cry when it is chopped?",
+    "answer": "Onion"
+  },
+  {
+    "category": "Food",
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "Avocado"
+  },
+  {
+    "category": "Food",
+    "question": "What do we call the round flat bread used to wrap a taco?",
+    "answer": "Tortilla"
+  },
+  {
+    "category": "Food",
+    "question": "What drink can you make by squeezing oranges?",
+    "answer": "Orange juice"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What game do you play by knocking down pins with a heavy ball?",
+    "answer": "Bowling"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What sport is played by hitting a ball over a net with a 
+racket?",
+    "answer": "Tennis"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What sport uses a puck on ice?",
+    "answer": "Ice hockey"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What sport involves swimming across a pool?",
+    "answer": "Swimming"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What sport uses a 
+club to hit a small ball into a hole?",
+    "answer": "Golf"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What game uses red, yellow, green, and blue cards and makes you shout its name when one card remains?",
+    "answer": "Uno"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What sport uses a bow to shoot arrows at a target?",
+    "answer": "Archery"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "How many hours are in one day?",
+    "answer": "24"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What shape has no corners and is perfectly round?",
+    "answer": "Circle"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What color do red and yellow paint make when 
+mixed?",
+    "answer": "Orange"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What is the opposite of tall?",
+    "answer": "Short"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What do you call the person who delivers letters to homes?",
+    "answer": "Mail carrier"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "How many wheels does a bicycle usually have?",
+    "answer": "Two"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What is the first month of the year?",
+    "answer": "January"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What is the last 
+month of the year?",
+    "answer": "December"
   }
 ]
