@@ -1003,5 +1003,245 @@ mixed?",
     "question": "What is the last 
 month of the year?",
     "answer": "December"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What day comes right after Tuesday?",
+    "answer": "Wednesday"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What do you call the day before Sunday?",
+    "answer": "Saturday"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "Which month comes right after March?",
+    "answer": "April"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What do you use to open a locked door?",
+    "answer": "Key"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "Which kitchen appliance bakes cookies?",
+    "answer": "Oven"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "What tool can you use to cut a sheet of paper?",
+    "answer": "Scissors"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "How many cents are in a dollar?",
+    "answer": "100"
+  },
+  {
+    "category": "Everyday 
+Knowledge",
+    "question": "What do you call a picture of the days and months of the year?",
+    "answer": "Calendar"
+  },
+  {
+    "category": "Everyday Knowledge",
+    "question": "Which meal do people usually eat in the middle of the day?",
+    "answer": "Lunch"
+  },
+  {
+    "category": "Animals",
+    "question": "What is a group of lions called?",
+    "answer": "Pride"
+  },
+  {
+    "category": "Animals",
+    "question": "What do you call a baby duck?",
+    "answer": "Duckling"
+  },
+  {
+    "category": "Animals",
+    "question": "What do you call a baby chicken?",
+    "answer": "Chick"
+  },
+  {
+    "category": "Animals",
+    "question": "Which animal has a hard shell and two big claws?",
+    "answer": "Lobster"
+  },
+  {
+    "category": "Animals",
+    "question": "What is a horse's long neck hair called?",
+    "answer": "Mane"
+  },
+  {
+    "category": "Animals",
+    "question": "Which farm animal gives us wool?",
+    "answer": "Sheep"
+  },
+  {
+    "category": "Animals",
+    "question": "Which animal is famous for having a hump on its 
+back?",
+    "answer": "Camel"
+  },
+  {
+    "category": "Animals",
+    "question": "What do you call a group of bees living together?",
+    "answer": "Colony"
+  },
+  {
+    "category": "Food",
+    "question": "What do you call the yellow part inside an egg?",
+    "answer": "Yolk"
+  },
+  {
+    "category": "Food",
+    "question": "Which food is made 
+when corn kernels pop from heat?",
+    "answer": "Popcorn"
+  },
+  {
+    "category": "Food",
+    "question": "What sweet food do you spread on toast that comes from fruit?",
+    "answer": "Jam"
+  },
+  {
+    "category": "Food",
+    "question": "What do you call a sandwich made with toasted bread and melted cheese?",
+    "answer": "Grilled cheese"
+  },
+  {
+    "category": "Food",
+    "question": "Which fruit has a fuzzy brown skin and green flesh?",
+    "answer": "Kiwi"
+  },
+  {
+    "category": "Food",
+    "question": "What is the name for long thin pasta shaped like strings?",
+    "answer": "Spaghetti"
+  },
+  {
+    "category": "Movies & Characters",
+    "question": "What is Mickey Mouse's girlfriend's name?",
+    "answer": "Minnie Mouse"
+  },
+  {
+    "category": "Movies & Characters",
+    "question": "Who is Simba's father in The Lion King?",
+    "answer": "Mufasa"
+  },
+  {
+    "category": "Movies & Characters",
+    "question": "Which superhero wears a red cape and has an S on his chest?",
+    "answer": "Superman"
+  },
+  {
+    "category": "Movies & Characters",
+    "question": "What kind of creature is Pinocchio before he becomes a real boy?",
+    "answer": "Wooden puppet"
+  },
+  {
+    "category": "Movies & Characters",
+    "question": "What is the name of the bear who loves honey in the Hundred Acre Wood?",
+    "answer": "Winnie-the-Pooh"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "How many bases are 
+on a baseball diamond including home plate?",
+    "answer": "Four"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "How many points do you score for one free throw in basketball?",
+    "answer": "One"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What is it called when you knock down all ten bowling pins on your first roll?",
+    "answer": "Strike"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "What color card can send a soccer player out of a game?",
+    "answer": "Red"
+  },
+  {
+    "category": "Sports & Games",
+    "question": "How many circles are on the Olympic symbol?",
+    "answer": "Five"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What are the bones in your body together called?",
+    "answer": "Skeleton"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "Which of your five senses lets you hear music?",
+    "answer": "Hearing"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do you call the outer layer of a tree?",
+    "answer": "Bark"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do you call the space between two mountains?",
+    "answer": "Valley"
+  },
+  {
+    "category": "Science & Nature",
+    "question": "What do you call water vapor that cools into tiny droplets on a cold glass?",
+    "answer": "Condensation"
+  },
+  {
+    "category": "Geography",
+    "question": "What country has the famous pyramids of Giza?",
+    "answer": "Egypt"
+  },
+  {
+    "category": "Geography",
+    "question": "Which holiday in the United States is celebrated on July 
+4?",
+    "answer": "Independence Day"
+  },
+  {
+    "category": "Words & Colors",
+    "question": "What punctuation mark goes at the end of a question?",
+    "answer": "Question mark"
+  },
+  {
+    "category": "Words & Colors",
+    "question": "How many letters are in the English alphabet?",
+    "answer": "26"
+  },
+  {
+    "category": "Words & Colors",
+    "question": "What is the opposite of loud?",
+    "answer": "Quiet"
+  },
+  {
+    "category": "Words & Colors",
+    "question": "What is the opposite of early?",
+    "answer": "Late"
+  },
+  {
+    "category": "Words & Colors",
+    "question": "What do you call a word that means the opposite of another word?",
+    "answer": "Antonym"
+  },
+  {
+    "category": "Words & Colors",
+    "question": "What are the three primary colors of paint?",
+    "answer": "Red, yellow, and blue"
+  },
+  {
+    "category": "Words & Colors",
+    "question": "Which instrument do you play by blowing into it and pressing keys, like in a school band?",
+    "answer": "Flute"
   }
 ]
