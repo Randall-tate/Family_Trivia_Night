@@ -37,7 +37,7 @@
   {
     "category": "Animals",
     "question": "What animal makes honey?",
-    "answer": "Bee"
+    "answer": "Honeybee"
   },
   {
     "category": "Animals",
@@ -51,12 +51,12 @@
   },
   {
     "category": "Animals",
-    "question": "What animal is known as the king of the jungle?",
+    "question": "Which big cat is often called the king of the jungle?",
     "answer": "Lion"
   },
   {
     "category": "Animals",
-    "question": "What bird cannot fly and lives in Antarctica?",
+    "question": "What black-and-white bird cannot fly and lives in Antarctica?",
     "answer": "Penguin"
   },
   {
@@ -81,13 +81,13 @@
   },
   {
     "category": "Animals",
-    "question": "What animal changes from a caterpillar?",
+    "question": "What insect does a caterpillar turn into?",
     "answer": "Butterfly"
   },
   {
     "category": "Animals",
     "question": "What is the largest land animal?",
-    "answer": "Elephant"
+    "answer": "African elephant"
   },
   {
     "category": "Animals",
@@ -151,7 +151,7 @@
   },
   {
     "category": "Science & Nature",
-    "question": "What do you call water turning into steam?",
+    "question": "What do we call liquid water changing into water vapor?",
     "answer": "Evaporation"
   },
   {
@@ -161,7 +161,8 @@
   },
   {
     "category": "Science & Nature",
-    "question": "What is the biggest planet in our solar system?",
+    "question": "What is the biggest 
+planet in our solar system?",
     "answer": "Jupiter"
   },
   {
@@ -176,7 +177,8 @@
   },
   {
     "category": "Science & Nature",
-    "question": "What part of your body pumps blood?",
+    "question": "What part of your 
+body pumps blood?",
     "answer": "Heart"
   },
   {
@@ -191,8 +193,7 @@
   },
   {
     "category": "Science & Nature",
-    "question": "What do we call a rock that falls from space to 
-Earth?",
+    "question": "What is a space rock called after it lands on Earth?",
     "answer": "Meteorite"
   },
   {
@@ -207,8 +208,7 @@ Earth?",
   },
   {
     "category": "Geography",
-    "question": "What city is the 
-capital of France?",
+    "question": "What city is the capital of France?",
     "answer": "Paris"
   },
   {
@@ -223,8 +223,7 @@ capital of France?",
   },
   {
     "category": "Geography",
-    "question": "What continent is 
-Egypt in?",
+    "question": "What continent is Egypt in?",
     "answer": "Africa"
   },
   {
@@ -303,202 +302,204 @@ Egypt in?",
     "answer": "New York City"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "Who is the cowboy in Toy Story?",
     "answer": "Woody"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "Who is the space ranger in Toy Story?",
     "answer": "Buzz Lightyear"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What is the snowman's name in Frozen?",
     "answer": "Olaf"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What is the ice queen's name in Frozen?",
     "answer": "Elsa"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What color is SpongeBob?",
     "answer": "Yellow"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What is Mickey Mouse's dog's name?",
     "answer": "Pluto"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What fairy flies with Peter Pan?",
     "answer": "Tinker Bell"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Video Games",
     "question": "What video game plumber wears a red hat?",
     "answer": "Mario"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Video Games",
     "question": "What blue video game character runs very fast?",
     "answer": "Sonic"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Video Games",
     "question": "What yellow Pokémon can make electricity?",
     "answer": "Pikachu"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What princess loses a glass slipper?",
     "answer": "Cinderella"
   },
   {
-    "category": "Movies & Fun",
-    "question": "What is the name of the fish in Finding Nemo?",
+    "category": "Movies",
+    "question": "What is the name of the young clownfish in Finding Nemo?",
     "answer": "Nemo"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Music",
     "question": "What instrument has black and white keys?",
     "answer": "Piano"
   },
   {
-    "category": "Movies & Fun",
+    "category": "General Knowledge",
     "question": "How many colors are in a traditional rainbow?",
     "answer": "Seven"
   },
   {
-    "category": "Movies & Fun",
+    "category": "General Knowledge",
     "question": "What do you call a person who performs magic tricks?",
     "answer": "Magician"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Sports",
     "question": "What sport uses a soccer ball and goals?",
     "answer": "Soccer"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Sports",
     "question": "What sport uses a bat and bases?",
     "answer": "Baseball"
   },
   {
-    "category": "Movies & Fun",
+    "category": "General Knowledge",
     "question": "What board game has kings and queens?",
     "answer": "Chess"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Sports",
     "question": "What sport uses a basketball hoop?",
     "answer": "Basketball"
   },
   {
-    "category": "Movies & Fun",
-    "question": "What color do you get by mixing blue and yellow paint?",
+    "category": "General Knowledge",
+    "question": "What color do you get by mixing blue and yellow 
+paint?",
     "answer": "Green"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What yellow fruit do monkeys often eat?",
     "answer": "Banana"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What orange vegetable do rabbits often eat?",
     "answer": "Carrot"
   },
   {
-    "category": "Food & Everyday",
-    "question": "What fruit is red and often used in pie?",
+    "category": "General Knowledge",
+    "question": "What crunchy fruit 
+can be red, green, or yellow and is often baked into pies?",
     "answer": "Apple"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What food do bees make?",
     "answer": "Honey"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What do we call bread browned in a toaster?",
     "answer": "Toast"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What frozen treat is served in a cone?",
     "answer": "Ice cream"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What do we call the meal eaten in the morning?",
     "answer": "Breakfast"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What dairy food is often put on pizza?",
     "answer": "Cheese"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What do you use to brush your teeth?",
     "answer": "Toothbrush"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "How many days are in a week?",
     "answer": "Seven"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "How many months are in a year?",
     "answer": "Twelve"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What color means stop at a traffic light?",
     "answer": "Red"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What do you wear on your feet inside shoes?",
     "answer": "Socks"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What do you use to keep rain off your head?",
     "answer": "Umbrella"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What shape has three sides?",
     "answer": "Triangle"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "How many sides does a square have?",
     "answer": "Four"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What do you call a person who puts out fires?",
     "answer": "Firefighter"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What do you use to tell the time?",
     "answer": "Clock"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What is the opposite of hot?",
     "answer": "Cold"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What color is a ripe lemon?",
     "answer": "Yellow"
   },
@@ -515,7 +516,7 @@ Egypt in?",
   {
     "category": "Animals",
     "question": "What animal has six legs and two antennae?",
-    "answer": "An insect"
+    "answer": "Insect"
   },
   {
     "category": "Animals",
@@ -529,13 +530,7 @@ Egypt in?",
   },
   {
     "category": "Animals",
-    "question": "What black-and-white bird is known for waddling and swimming?",
-    "answer": "Penguin"
-  },
-  {
-    "category": "Animals",
-    "question": "What bird is famous 
-for laying very large eggs?",
+    "question": "What bird is famous for laying very large eggs?",
     "answer": "Ostrich"
   },
   {
@@ -550,8 +545,7 @@ for laying very large eggs?",
   },
   {
     "category": "Animals",
-    "question": "Which pink bird 
-often stands on one leg?",
+    "question": "Which pink bird often stands on one leg?",
     "answer": "Flamingo"
   },
   {
@@ -566,8 +560,7 @@ often stands on one leg?",
   },
   {
     "category": "Science & Nature",
-    "question": "What is the name of 
-the galaxy containing Earth?",
+    "question": "What is the name of the galaxy containing Earth?",
     "answer": "Milky Way"
   },
   {
@@ -582,8 +575,7 @@ the galaxy containing Earth?",
   },
   {
     "category": "Science & Nature",
-    "question": "What is melted 
-rock called when it flows out of a volcano?",
+    "question": "What is melted rock called when it flows out of a volcano?",
     "answer": "Lava"
   },
   {
@@ -598,62 +590,53 @@ rock called when it flows out of a volcano?",
   },
   {
     "category": "Science & Nature",
-    "question": "What do we call a large plant with a trunk and branches?",
+    "question": "What do we call a large plant with a trunk and 
+branches?",
     "answer": "Tree"
   },
   {
-    "category": "Science & Nature",
-    "question": "What happens to a puddle when the Sun dries it?",
-    "answer": "The water evaporates"
-  },
-  {
-    "category": "Movies & Fun",
-    "question": "Who is the friendly snowman in Frozen?",
-    "answer": "Olaf"
-  },
-  {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What animal is Shrek's talkative friend?",
     "answer": "Donkey"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What is the name of Simba's uncle in The Lion King?",
     "answer": "Scar"
   },
   {
-    "category": "Movies & Fun",
-    "question": "What kind of animal is Remy in Ratatouille?",
+    "category": "Movies",
+    "question": "What kind of animal 
+is Remy in Ratatouille?",
     "answer": "Rat"
   },
   {
-    "category": "Movies & Fun",
+    "category": "Movies",
     "question": "What animal is the Grinch's pet Max?",
     "answer": "Dog"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What three treats make a classic s'more?",
     "answer": "Graham crackers, chocolate, and marshmallow"
   },
   {
-    "category": "Food & Everyday",
-    "question": "What fruit is known for providing vitamin C and 
-growing on citrus trees?",
+    "category": "General Knowledge",
+    "question": "What fruit is known for providing vitamin C and growing on citrus trees?",
     "answer": "Orange"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What do we call a person who chooses not to eat meat?",
     "answer": "Vegetarian"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What two toppings are common on Hawaiian pizza?",
     "answer": "Ham and pineapple"
   },
   {
-    "category": "Food & Everyday",
+    "category": "General Knowledge",
     "question": "What kind of food is mozzarella?",
     "answer": "Cheese"
   },
@@ -709,7 +692,8 @@ growing on citrus trees?",
   },
   {
     "category": "Animals",
-    "question": "What sea animal has claws and walks sideways?",
+    "question": "What sea animal has 
+claws and walks sideways?",
     "answer": "Crab"
   },
   {
@@ -739,8 +723,7 @@ growing on citrus trees?",
   },
   {
     "category": "Science & Nature",
-    "question": "What do we call the colored arc that can appear after 
-rain?",
+    "question": "What do we call the colored arc that can appear after rain?",
     "answer": "Rainbow"
   },
   {
@@ -765,7 +748,8 @@ rain?",
   },
   {
     "category": "Science & Nature",
-    "question": "What is the name for water falling from clouds as frozen white flakes?",
+    "question": "What is the name for water falling from clouds as frozen 
+white flakes?",
     "answer": "Snow"
   },
   {
@@ -780,8 +764,7 @@ rain?",
   },
   {
     "category": "Science & Nature",
-    "question": "What part of your body helps you think and 
-remember?",
+    "question": "What part of your body helps you think and remember?",
     "answer": "Brain"
   },
   {
@@ -796,7 +779,7 @@ remember?",
   },
   {
     "category": "Science & Nature",
-    "question": "What do seeds need from the soil to begin growing?",
+    "question": "What liquid do seeds need to begin growing?",
     "answer": "Water"
   },
   {
@@ -821,7 +804,8 @@ remember?",
   },
   {
     "category": "Geography",
-    "question": "What do we call a stream of water that flows across land?",
+    "question": "What do we call a 
+stream of water that flows across land?",
     "answer": "River"
   },
   {
@@ -845,208 +829,204 @@ remember?",
     "answer": "Arizona"
   },
   {
-    "category": "Movies & Games",
+    "category": "Movies",
     "question": "What is the name of the lion cub who becomes king in The Lion King?",
     "answer": "Simba"
   },
   {
-    "category": "Movies & Games",
+    "category": "Movies",
     "question": "What is the name of the green ogre in the movie with Donkey?",
     "answer": "Shrek"
   },
   {
-    "category": "Movies & Games",
+    "category": "Movies",
     "question": "What is the name of the princess in Aladdin?",
     "answer": "Jasmine"
   },
   {
-    "category": "Movies & Games",
-    "question": "Which movie features a house lifted by colorful balloons?",
+    "category": "Movies",
+    "question": "Which movie 
+features a house lifted by colorful balloons?",
     "answer": "Up"
   },
   {
-    "category": "Movies & Games",
+    "category": "Movies",
     "question": "What is the name of the friendly red race car in Cars?",
     "answer": "Lightning McQueen"
   },
   {
-    "category": "Movies & Games",
+    "category": "Movies",
     "question": "What is the name of the snow queen's sister in Frozen?",
     "answer": "Anna"
   },
   {
-    "category": "Movies & Games",
-    "question": "What is the name of the green dinosaur toy in Toy 
-Story?",
+    "category": "Movies",
+    "question": "What is the name of the green dinosaur toy in Toy Story?",
     "answer": "Rex"
   },
   {
-    "category": "Movies & Games",
+    "category": "Movies",
     "question": "What is the name of the crab who sings in The Little Mermaid?",
     "answer": "Sebastian"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What fruit is dried to make raisins?",
     "answer": "Grapes"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What vegetable is used to make most french fries?",
     "answer": "Potato"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What fruit has tiny seeds on its outside?",
     "answer": "Strawberry"
   },
   {
-    "category": "Food",
-    "question": "What do we call the food made by cooking beaten eggs in a pan and stirring them?",
+    "category": "General Knowledge",
+    "question": "What do we call eggs stirred while cooking in a pan?",
     "answer": "Scrambled eggs"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What vegetable makes many people cry when it is chopped?",
     "answer": "Onion"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What is the main ingredient in guacamole?",
     "answer": "Avocado"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What do we call the round flat bread used to wrap a taco?",
     "answer": "Tortilla"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What drink can you make by squeezing oranges?",
     "answer": "Orange juice"
   },
   {
-    "category": "Sports & Games",
+    "category": "Sports",
     "question": "What game do you play by knocking down pins with a heavy ball?",
     "answer": "Bowling"
   },
   {
-    "category": "Sports & Games",
-    "question": "What sport is played by hitting a ball over a net with a 
-racket?",
+    "category": "Sports",
+    "question": "What sport is played 
+by hitting a ball over a net with a racket?",
     "answer": "Tennis"
   },
   {
-    "category": "Sports & Games",
+    "category": "Sports",
     "question": "What sport uses a puck on ice?",
     "answer": "Ice hockey"
   },
   {
-    "category": "Sports & Games",
+    "category": "Sports",
     "question": "What sport involves swimming across a pool?",
     "answer": "Swimming"
   },
   {
-    "category": "Sports & Games",
-    "question": "What sport uses a 
-club to hit a small ball into a hole?",
+    "category": "Sports",
+    "question": "What sport uses a club to hit a small ball into a hole?",
     "answer": "Golf"
   },
   {
-    "category": "Sports & Games",
+    "category": "Sports",
     "question": "What game uses red, yellow, green, and blue cards and makes you shout its name when one card remains?",
     "answer": "Uno"
   },
   {
-    "category": "Sports & Games",
+    "category": "Sports",
     "question": "What sport uses a bow to shoot arrows at a target?",
     "answer": "Archery"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "How many hours are in one day?",
     "answer": "24"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "What shape has no corners and is perfectly round?",
     "answer": "Circle"
   },
   {
-    "category": "Everyday Knowledge",
-    "question": "What color do red and yellow paint make when 
-mixed?",
+    "category": "General Knowledge",
+    "question": "What color do red and yellow paint make when mixed?",
     "answer": "Orange"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "What is the opposite of tall?",
     "answer": "Short"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "What do you call the person who delivers letters to homes?",
     "answer": "Mail carrier"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "How many wheels does a bicycle usually have?",
     "answer": "Two"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "What is the first month of the year?",
     "answer": "January"
   },
   {
-    "category": "Everyday Knowledge",
-    "question": "What is the last 
-month of the year?",
+    "category": "General Knowledge",
+    "question": "What is the last month of the year?",
     "answer": "December"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "What day comes right after Tuesday?",
     "answer": "Wednesday"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "What do you call the day before Sunday?",
     "answer": "Saturday"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "Which month comes right after March?",
     "answer": "April"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "What do you use to open a locked door?",
     "answer": "Key"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "Which kitchen appliance bakes cookies?",
     "answer": "Oven"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "What tool can you use to cut a sheet of paper?",
     "answer": "Scissors"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "How many cents are in a dollar?",
     "answer": "100"
   },
   {
-    "category": "Everyday 
-Knowledge",
+    "category": "General Knowledge",
     "question": "What do you call a picture of the days and months of the year?",
     "answer": "Calendar"
   },
   {
-    "category": "Everyday Knowledge",
+    "category": "General Knowledge",
     "question": "Which meal do people usually eat in the middle of the day?",
     "answer": "Lunch"
   },
@@ -1082,8 +1062,7 @@ Knowledge",
   },
   {
     "category": "Animals",
-    "question": "Which animal is famous for having a hump on its 
-back?",
+    "question": "Which animal is famous for having a hump on its back?",
     "answer": "Camel"
   },
   {
@@ -1092,84 +1071,84 @@ back?",
     "answer": "Colony"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What do you call the yellow part inside an egg?",
     "answer": "Yolk"
   },
   {
-    "category": "Food",
-    "question": "Which food is made 
-when corn kernels pop from heat?",
+    "category": "General Knowledge",
+    "question": "Which food is made when corn kernels pop from heat?",
     "answer": "Popcorn"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What sweet food do you spread on toast that comes from fruit?",
     "answer": "Jam"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What do you call a sandwich made with toasted bread and melted cheese?",
     "answer": "Grilled cheese"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "Which fruit has a fuzzy brown skin and green flesh?",
     "answer": "Kiwi"
   },
   {
-    "category": "Food",
+    "category": "General Knowledge",
     "question": "What is the name for long thin pasta shaped like strings?",
     "answer": "Spaghetti"
   },
   {
-    "category": "Movies & Characters",
-    "question": "What is Mickey Mouse's girlfriend's name?",
+    "category": "Movies",
+    "question": "What is Mickey 
+Mouse's girlfriend's name?",
     "answer": "Minnie Mouse"
   },
   {
-    "category": "Movies & Characters",
+    "category": "General Knowledge",
     "question": "Who is Simba's father in The Lion King?",
     "answer": "Mufasa"
   },
   {
-    "category": "Movies & Characters",
+    "category": "Movies",
     "question": "Which superhero wears a red cape and has an S on his chest?",
     "answer": "Superman"
   },
   {
-    "category": "Movies & Characters",
+    "category": "Movies",
     "question": "What kind of creature is Pinocchio before he becomes a real boy?",
     "answer": "Wooden puppet"
   },
   {
-    "category": "Movies & Characters",
+    "category": "Movies",
     "question": "What is the name of the bear who loves honey in the Hundred Acre Wood?",
     "answer": "Winnie-the-Pooh"
   },
   {
-    "category": "Sports & Games",
-    "question": "How many bases are 
-on a baseball diamond including home plate?",
+    "category": "Sports",
+    "question": "How many bases are on a baseball diamond including home plate?",
     "answer": "Four"
   },
   {
-    "category": "Sports & Games",
+    "category": "Sports",
     "question": "How many points do you score for one free throw in basketball?",
     "answer": "One"
   },
   {
-    "category": "Sports & Games",
+    "category": "Sports",
     "question": "What is it called when you knock down all ten bowling pins on your first roll?",
     "answer": "Strike"
   },
   {
-    "category": "Sports & Games",
-    "question": "What color card can send a soccer player out of a game?",
+    "category": "Sports",
+    "question": "What color card 
+can send a soccer player out of a game?",
     "answer": "Red"
   },
   {
-    "category": "Sports & Games",
+    "category": "Sports",
     "question": "How many circles are on the Olympic symbol?",
     "answer": "Five"
   },
@@ -1205,42 +1184,41 @@ on a baseball diamond including home plate?",
   },
   {
     "category": "Geography",
-    "question": "Which holiday in the United States is celebrated on July 
-4?",
+    "question": "Which holiday in the United States is celebrated on July 4?",
     "answer": "Independence Day"
   },
   {
-    "category": "Words & Colors",
+    "category": "General Knowledge",
     "question": "What punctuation mark goes at the end of a question?",
     "answer": "Question mark"
   },
   {
-    "category": "Words & Colors",
+    "category": "General Knowledge",
     "question": "How many letters are in the English alphabet?",
     "answer": "26"
   },
   {
-    "category": "Words & Colors",
+    "category": "General Knowledge",
     "question": "What is the opposite of loud?",
     "answer": "Quiet"
   },
   {
-    "category": "Words & Colors",
+    "category": "General Knowledge",
     "question": "What is the opposite of early?",
     "answer": "Late"
   },
   {
-    "category": "Words & Colors",
+    "category": "General Knowledge",
     "question": "What do you call a word that means the opposite of another word?",
     "answer": "Antonym"
   },
   {
-    "category": "Words & Colors",
+    "category": "General Knowledge",
     "question": "What are the three primary colors of paint?",
     "answer": "Red, yellow, and blue"
   },
   {
-    "category": "Words & Colors",
+    "category": "Music",
     "question": "Which instrument do you play by blowing into it and pressing keys, like in a school band?",
     "answer": "Flute"
   }
